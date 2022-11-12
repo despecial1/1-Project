@@ -1,0 +1,35 @@
+img {
+    border-radius: 5%;
+  }
+
+.considine {
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+.dave {
+    font-weight:lighter;
+    font-size: x-large;
+}
+
+div{ 
+    text-align: center;
+    border: 450px solid hwb(192 72% 7%);
+}
+div {
+    padding-top: 50px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    background-color: whitesmoke;
+  
+    
+    background-size: 10%;
+
+    
+  }
+
+  
+
+  
+  
